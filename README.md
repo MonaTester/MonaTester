@@ -33,10 +33,10 @@ Languages and Tools :
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MonaTester&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonaTester&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=MonaTester&show_icons=true&theme=merko">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonaTester&size_weight=0.15&count_weight=0.5&layout=compact&theme=merko">
 </p>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=MonaTester&style=for-the-badge&color=green" alt=""/>
 </div>
