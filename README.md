@@ -11,3 +11,21 @@ My expertise covers Moderation, Game development, Roblox development, Animation,
 
 In my free time, I enjoy creating special effects, rendering animations, and producing graphic art. I am committed to delivering high-quality work and continuously expanding my skills in the field. Thank you for taking the time to learn about me. With over 6 years of experience in Game development and a proven track record of successful projects, I have refined my skills in Lua language and in diverse creative areas.
 
+---
+Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="JavaScript" width="60" height="60" height="60"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="60" height="60" height="60"/>
+</div>
+
+---
+
+<p align="center">
+  <img width="1000" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800](https://streak-stats.demolab.com/demo/?user=MonaTester&theme=merko&hide_border=true&border_radius=4.6&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=497&type=svg&background-type=solid&properties=background)https://streak-stats.demolab.com/demo/?user=MonaTester&theme=merko&hide_border=true&border_radius=4.6&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=497&type=svg&background-type=solid&properties=background">
+</p>
